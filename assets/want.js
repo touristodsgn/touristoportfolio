@@ -3,7 +3,7 @@
   var TG = 'https://t.me/sex030'; // <-- ваша ссылка на Telegram
   var a = document.createElement('a');
   a.href = TG; a.target = '_blank'; a.rel = 'noopener';
-  a.setAttribute('aria-label', 'Заказать такой же сайт у TOURISTO в Telegram');
+  a.setAttribute('aria-label', 'Заказать такой же сайт у WEBNET в Telegram');
   a.innerHTML = '<span>Хочу такой же</span>';
   var css = document.createElement('style');
   css.textContent =
