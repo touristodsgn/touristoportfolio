@@ -1,6 +1,6 @@
 /* Плавающая кнопка «Хочу такой же сайт» на страницах-работах: ведёт в Telegram. */
 (function () {
-  var TG = 'https://t.me/sex030'; // <-- ваша ссылка на Telegram
+  var TG = 'https://t.me/x8844x'; // <-- ваша ссылка на Telegram
   var a = document.createElement('a');
   a.href = TG; a.target = '_blank'; a.rel = 'noopener';
   a.setAttribute('aria-label', 'Заказать такой же сайт у WEBNET в Telegram');

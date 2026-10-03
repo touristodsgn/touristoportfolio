@@ -51,7 +51,7 @@ assets/
 
 | Что | Где | Как |
 |---|---|---|
-| Ссылка на Telegram | `index.html`, `works/*.html`, `assets/want.js`: `https://t.me/sex030` | Заменить на свою везде |
+| Ссылка на Telegram | `index.html`, `works/*.html`, `assets/want.js`: `https://t.me/x8844x` | Заменить на свою везде |
 | Цены и сроки | `index.html`, блоки «Услуги» и «Тарифы» | Поменять числа |
 | Тексты | `index.html` | Найти фразу и переписать |
 | Логотип | Шапка в `index.html`, значок во вкладке (favicon) | Скажите Claude номер варианта, он установит |
